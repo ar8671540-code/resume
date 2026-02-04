@@ -1,0 +1,48 @@
+
+body {
+	background-color: rgb(4, 45, 117);
+	font-display: optional;
+	color: rgb(255, 255, 255);
+	padding-bottom: 200px;
+	padding-right: 200px;
+	padding-left: 400px;
+	padding-top: 200px;
+ 
+}
+
+button {
+	color: rgb(255, 255, 255);
+	background-color: black;
+	width: 82px;
+	
+	
+}
+.dashboard {
+    background: #1e3799;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+	height: 500px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background-image: url(bg.png)
+}
+
+h1 {
+	background: rgb(255, 187, 77);
+    
+    border-radius: 10px;
+    width: 500px;
+	height: 40px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+	
+	
+	
+
+
+ 
+
+
+
